@@ -1,0 +1,21 @@
+{
+  "nodes":
+  [
+    {
+      "name":"'lambda'(auto)"
+      , "id":1
+      , "type":"kernel"
+      , "children":
+      [
+        {
+          "name":"'lambda'(auto).B0"
+          , "id":2
+          , "type":"bb"
+        }
+      ]
+    }
+  ]
+  , "links":
+  [
+  ]
+}
